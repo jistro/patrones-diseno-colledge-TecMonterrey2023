@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: SEE LICENSE IN LICENSE
+// SPDX-License-Identifier: CC-BY-4.0
 pragma solidity ^0.8.19;
 
 /**
